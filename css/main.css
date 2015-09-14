@@ -377,7 +377,7 @@ transform:translateY(0);
    
 .video-tour {
   position: relative;
-  height: 400px;
+  height: 1000px;
   overflow: hidden;
   background: #333 url(../img/bg-video-preview.jpg) center center no-repeat scroll;
   background-size: cover;
